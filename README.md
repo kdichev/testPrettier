@@ -1,2 +1,0 @@
-# testPrettier
-Created with CodeSandbox
